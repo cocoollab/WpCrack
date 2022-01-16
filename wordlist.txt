@@ -20,3 +20,5 @@ password1234
 adminpassword
 user
 User
+root  
+toor
